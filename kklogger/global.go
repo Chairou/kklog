@@ -1,0 +1,3 @@
+package kklogger
+
+const ()
